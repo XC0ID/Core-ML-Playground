@@ -184,15 +184,6 @@ jupyter notebook
 
 **Maulik Gajera**
 
-GitHub  
-https://github.com/XC0ID
-
-LinkedIn  
-https://linkedin.com/in/maulik-gajera10
-
-Kaggle  
-https://kaggle.com/maulikgajera
-
 ---
 
 # 📜 License
